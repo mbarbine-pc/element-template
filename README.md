@@ -22,7 +22,7 @@ A signal is something that is responded to. This usually corresponds to an event
 
 #### What is a Credential
 
-A credential is the definition and structure by which you expect doFlo users interacting with your element to establish trust with the services you are proxying via your element. If you have an API that requires credentials, doFlo needs to know how to provide those to you on behalf of our users. Additionally our users need a friendly, trusted and secure way process to provide us those credentials so that we can provide them to your services. Credential definitions tell us what to save, how to present it and how to collect it.
+A credential is the definition and structure by which you expect doFlo users interacting with your element to establish trust with the services you are proxying via your element. If you have an API that requires credentials, doFlo needs to know how to provide those to you on behalf of our users. Additionally our users need a friendly, trusted and secure process to provide us those credentials so that we can provide them to your services. Credential definitions tell us what to save, how to present it and how to collect it.
 
 #### What is a Data Type
 

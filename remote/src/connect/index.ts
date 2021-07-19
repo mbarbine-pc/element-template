@@ -13,7 +13,13 @@ export class helperMethods {
             host: string;
         }>
     ): Promise<ICredentialCreationResponse> {
-        const url = `https://${context.data.shop}/admin/oauth/access_token`;
+
+        // Examples
+        //const url = `https://${context.data.shop}/admin/oauth/access_token`;
+
+        //const url = `https://${context.data.shop}/admin/oauth/access_token?mode=${this.env.ENV.toLowerCase()}`;
+
+        const url = this.utilities.strings.evalAsTemplate(this.env['ACCESS_TOKEN_URL'])
 
         try {
             const form = new URLSearchParams();

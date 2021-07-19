@@ -1,4 +1,4 @@
-# flow-element-template
+# element-template
 
 Base template for the creation of doFlo elements. 
 

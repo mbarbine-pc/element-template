@@ -18,7 +18,7 @@ An action is something that is done. This usually corresponds with something tha
 
 #### What is a Signal
 
-A signal is something that is responded to. This usually corresponds to an event originating from your service. For example if you are building an element to represent a service that notifies its users of changes; possibly via webhooks, webevents or message buss services your signal would document and provide a means of listening for such events and is the bridge for such events to the doFlo service. Most actions that take place on the doFlo service are in response to some type of "Signal"
+A signal is something that is responded to. This usually corresponds to an event originating from your service. For example if you are building an element to represent a service that notifies its users of changes; possibly via webhooks, webevents or message bus services your signal would document and provide a means of listening for such events and is the bridge for such events to the doFlo service. Most actions that take place on the doFlo service are in response to some type of "Signal"
 
 #### What is a Credential
 

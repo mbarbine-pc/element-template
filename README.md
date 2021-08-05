@@ -4,7 +4,7 @@ Base template for the creation of doFlo elements.
 
 ## Element Template Walkthrough
 
-Congratulations, if your reading this you've likely decided to extend the doFlo platform by building a custom doFlo element. This documentation will walk you through the configuration, file structure and code so that you have the information needed to do build and deploy your first element.
+Congratulations, if your reading this you've likely decided to extend the doFlo platform by building a custom doFlo element. This documentation will walk you through the configuration, file structure and code so that you have the information needed to do build and deploy your first element. blah.
 
 ### What is a doFlo element ?
 
